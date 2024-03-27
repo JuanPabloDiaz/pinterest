@@ -14,14 +14,6 @@ export default function Navbar() {
       <button className="flex items-center text-white bg-black w-auto px-4 py-2 rounded-full">
         Home
       </button>
-      <button className="flex items-center text-white bg-black w-auto px-4 py-2 rounded-full">
-        <a
-          href="/docs/index.html"
-          alt="auto-generated documentation for the project using JSDoc"
-        >
-          JsDoc
-        </a>
-      </button>
       <button className="flex items-center">
         Create
         <img src={Arrow} alt="" />
