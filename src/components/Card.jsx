@@ -11,7 +11,7 @@ export default function Card(props) {
 			</div>
 			<div className='p-2 space-y-2'>
 				<h4 className='text-xl'>{author}</h4>	
-				<h6 className='text-sm'>@coding_byanna</h6>	
+				<h6 className='text-sm'>@1diazdev</h6>	
 			</div>
 		</div>	
 	 </div>
